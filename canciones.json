@@ -1,0 +1,100 @@
+{
+  "canciones": [
+    {
+      "id": 1,
+      "titulo": "I'm Addicted (Original Mix)",
+      "artista": "Death Shock",
+      "genero": "Hardcore Uptempo",
+      "imagen": "img/death_shock.jpg",
+      "archivo": "audio/Death Shock - I'm Addicted.mp3"
+    },
+    {
+      "id": 2,
+      "titulo": "Knocked",
+      "artista": "Death Shock",
+      "genero": "Hardcore Uptempo",
+      "imagen": "img/death_shock.jpg",
+      "archivo": "audio/Death Shock - Knocked.mp3"
+    },
+    {
+      "id": 3,
+      "titulo": "Pain Out",
+      "artista": "Death Shock",
+      "genero": "Hardcore Uptempo",
+      "imagen": "img/death_shock.jpg",
+      "archivo": "audio/Death Shock - Pain Out.mp3"
+    },
+    {
+      "id": 4,
+      "titulo": "ELLAS SABAN LU KE iA",
+      "artista": "P.A.W.N Gang",
+      "genero": "Musica Urbana",
+      "imagen": "img/pawn_gang.jpg",
+      "archivo": "audio/P.A.W.N GANG - ELLAS SABAN LU KE iA _ PROD. ETM.mp3"
+    },
+    {
+      "id": 5,
+      "titulo": "LA CLiKA",
+      "artista": "P.A.W.N Gang",
+      "genero": "Musica Urbana",
+      "imagen": "img/pawn_gang.jpg",
+      "archivo": "audio/P.A.W.N GANG - LA CLiKA.mp3"
+    },
+    {
+      "id": 6,
+      "titulo": "NAi TRUCAM AL MOBiL _ NEM A FE NAGOSiS (UN TRET)",
+      "artista": "P.A.W.N Gang",
+      "genero": "Musica Urbana",
+      "imagen": "img/pawn_gang.jpg",
+      "archivo": "audio/P.A.W.N GANG - NAi TRUCAM AL MOBiL _ NEM A FE NAGOSiS.mp3"
+    },
+    {
+      "id": 7,
+      "titulo": "TU I TU",
+      "artista": "P.A.W.N Gang",
+      "genero": "Musica Urbana",
+      "imagen": "img/pawn_gang.jpg",
+      "archivo": "audio/P.A.W.N GANG - TU I TU.mp3"
+    },
+    {
+      "id": 8,
+      "titulo": "VUI SE PULiSiA __ MONRRA STRAPS [ V.S.P. MiXTApE ]",
+      "artista": "P.A.W.N Gang",
+      "genero": "Musica Urbana",
+      "imagen": "img/pawn_gang.jpg",
+      "archivo": "audio/P.A.W.N GANG - VUI SE PULiSiA __ MONRRA STRAPS.mp3"
+    },
+    {
+      "id": 9,
+      "titulo": "Firebombs [Dedicated To The Future]",
+      "artista": "The Straikerz",
+      "genero": "Rawstyle",
+      "imagen": "img/the_straikerz.jpg",
+      "archivo": "audio/The Straikerz - Firebombs.mp3"
+    },
+    {
+      "id": 10,
+      "titulo": "Jackpot (The Jackpot Playlist Anthem)",
+      "artista": "The Straikerz",
+      "genero": "Rawstyle",
+      "imagen": "img/the_straikerz.jpg",
+      "archivo": "audio/The Straikerz - Jackpot.mp3"
+    },
+    {
+      "id": 11,
+      "titulo": "Kickroll Is Not A Crime _ POWER HOUR Records",
+      "artista": "The Straikerz",
+      "genero": "Rawstyle",
+      "imagen": "img/the_straikerz.jpg",
+      "archivo": "audio/The Straikerz - Kickroll Is Not A Crime _ POWER HOUR.mp3"
+    },
+    {
+      "id": 12,
+      "titulo": "Mi Madre",
+      "artista": "The Straikerz",
+      "genero": "Rawstyle",
+      "imagen": "img/the_straikerz.jpg",
+      "archivo": "audio/The Straikerz - Mi Madre.mp3"
+    }
+  ]
+}
